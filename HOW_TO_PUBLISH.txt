@@ -1,0 +1,42 @@
+CARL VINCENT ZABALA — PREMIUM PORTFOLIO (CERTIFICATIONS EDITION)
+
+INCLUDED
+• Original, full-resolution four premium resort posters — unchanged PNGs (1254 × 1254 px each).
+• Two branded social media account cards linking to the Facebook pages you supplied.
+• REHub and My Hometown brand imagery locally prepared from your supplied marketing posters.
+  These are portfolio-designed card covers, not Facebook's official cover photos.
+• PRC Licensed Electronics Engineer and Electronics Technician highlights.
+  License ID images are NOT included; those can be added later if you choose.
+• AIGPE, SoloLearn Python Core, and two freeCodeCamp certificate images in their original dimensions.
+• Direct certificate verification links for SoloLearn and freeCodeCamp.
+• 32 tools with locally bundled vector icons, your portrait, résumé, PesoBase section and contacts.
+• No admin dashboard, no old property posters and no old videos.
+
+PREVIEW LOCALLY
+1. Extract the ZIP.
+2. Open index.html in Chrome or Edge.
+3. Click any certificate to see it in the full-size viewer (Arrow Left/Right moves through certificates).
+4. Use the poster thumbnails to see all four designs; click View full size to open a poster.
+
+PUBLISH / UPDATE THE EXISTING NETLIFY WEBSITE
+1. Sign in to https://app.netlify.com/
+2. Select your existing portfolio website, then choose its Deploys section.
+3. Manually deploy the extracted folder containing index.html, app.js, style.css, and media/.
+4. Refresh your public URL using Ctrl+Shift+R if a cached older version appears.
+
+TO UPDATE AFTER NEW PROJECTS
+Upload your work to this chat and I can edit the site assets and project descriptions.
+Re-deploy the newly generated website files to Netlify; updating a ZIP here will not
+update a live website automatically.
+
+PESOBASE
+Your exact GitHub repository or published demo URL has not been provided, so the
+PesoBase section does not invent one. It can be configured at the top of app.js in PESOBASE.
+
+PRIVACY
+Your certificates may display public verification QR codes, certificate IDs and your name.
+Review the content before publishing if you want any details redacted.
+
+ASSET ATTRIBUTION
+The page uses branding originally present in your supplied posters. Tool icons retain
+the existing attribution information listed in ICON_CREDITS.txt.

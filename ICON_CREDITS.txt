@@ -1,0 +1,9 @@
+Brand icon credits and notices
+
+Selected brand SVG icons (Slack, Salesforce, HubSpot, Trello, WordPress, Meta, Google) are sourced from Font Awesome Free 6.7.2 by Fonticons, Inc. Icons: CC BY 4.0.
+https://fontawesome.com/license/free
+https://creativecommons.org/licenses/by/4.0/
+
+Other icons are locally drawn, brand-styled illustrative symbols and monograms, not official artwork. All product names and brand marks are trademarks of their respective owners.
+
+This project contains no proprietary brand font files.
